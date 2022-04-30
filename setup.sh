@@ -1,4 +1,4 @@
-# Basin installation
+# Basic installation
 
 sudo docker run -d \
   --name=unifi-controller \
