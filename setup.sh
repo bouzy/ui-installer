@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Basic installation
 
 sudo docker run -d \
